@@ -2,18 +2,18 @@
 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Jq8xgRn/49af8e6f0863c14452ba96a3c26e717b.gif" alt="49af8e6f0863c14452ba96a3c26e717b" border="0" /></a>
-<h1 align="center">ʜɪ 👋, ɪ'ᴍ 𝗟𝗼𝗿𝗱 𝗦𝗮𝘃𝗮𝗴𝗲. ᴜsᴇʀɴᴀᴍᴇ- 𝗦𝗮𝘃𝗮𝗴𝗲223</h1>
+<h1 align="center">ʜɪ 👋, ɪ'ᴍ 𝗟𝗼𝗿𝗱 𝗦𝗮𝘃𝗮𝗴𝗲. ᴜsᴇʀɴᴀᴍᴇ- 𝗦𝗮𝘃𝗮𝗴𝗲2</h1>
 <h3 align="center">I am a noob coder. Learning javascript and Node js👀.</h3>
 
-- 💠 Name- **𝗟𝗼𝗿𝗱 𝗦𝗮𝘃𝗮𝗴𝗲 **
+- 𓆏𓅓 Name- **𝗟𝗼𝗿𝗱 𝗦𝗮𝘃𝗮𝗴𝗲 **
 
-- 🎂 Age- **17**
+- 𖧷☦︎ Age- **17**
 
-- 🚀 My hobbys are **reading mangas, Watching animes, drawing, web surfing(surface and dark), know about open source projects**
+- ✵✩ My hobbys are **reading mangas, Watching animes, drawing, web surfing(surface and dark), know about open source projects**
 
-- 〽️ I’m currently working on Whatsapp bots😂
+- 𖣘𓃠 I’m currently working on Whatsapp bots😂
 
-- 🎗️ I’m currently learning **Javascript, Node js**
+- 𑁍♕༒︎ I’m currently learning **Javascript, Node js**
 
 </div>
 
@@ -31,14 +31,14 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Toshiro223&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## Follow me on (❤️ω❤️)
+## Follow me on (✞︎☠︎︎ω✞︎☠︎︎)
 **Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/Savagee2) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/_smokey_vinez_/) | **YouTube** [<img src="https://img.icons8.com/nolan/240/youtube.png" alt='YouTube' height='32'>](https://youtube.com/channel/UCXpD5-zJKfNjB-RGFNq9FPA)  
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/GQLrdy9/tumblr-mte3vs3w-Vv1sv5n5mo1-500.gif" alt="tumblr-mte3vs3w-Vv1sv5n5mo1-500" border="0" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## Have A Great and wonderful day see ya 💫✌🏻
+## Have A Great and wonderful day see ya 💫✌🏻ꨄ︎☻︎
 
 
 
