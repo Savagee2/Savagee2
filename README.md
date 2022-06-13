@@ -2,12 +2,12 @@
 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Jq8xgRn/49af8e6f0863c14452ba96a3c26e717b.gif" alt="49af8e6f0863c14452ba96a3c26e717b" border="0" /></a>
-<h1 align="center">ʜɪ 👋, ɪ'ᴍ Toshiro. ᴜsᴇʀɴᴀᴍᴇ- Toshiro223</h1>
+<h1 align="center">ʜɪ 👋, ɪ'ᴍ 𝗟𝗼𝗿𝗱 𝗦𝗮𝘃𝗮𝗴𝗲. ᴜsᴇʀɴᴀᴍᴇ- 𝗦𝗮𝘃𝗮𝗴𝗲223</h1>
 <h3 align="center">I am a noob coder. Learning javascript and Node js👀.</h3>
 
-- 💠 Name- **Toshiro Hitsugaya**
+- 💠 Name- **𝗟𝗼𝗿𝗱 𝗦𝗮𝘃𝗮𝗴𝗲 **
 
-- 🎂 Age- **18**
+- 🎂 Age- **17**
 
 - 🚀 My hobbys are **reading mangas, Watching animes, drawing, web surfing(surface and dark), know about open source projects**
 
